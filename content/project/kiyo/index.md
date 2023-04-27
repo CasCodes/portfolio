@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
+title: Kiyo
 summary: Write about your project here...
 tags:
-  - NLP
-date: 2022-01-01
+  - ML
+date: 2020-01-01
 external_link: http://github.com
 ---

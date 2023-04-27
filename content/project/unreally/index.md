@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
+title: Unreally - Fake News Detection
 summary: Write about your project here...
 tags:
-  - CV
+  - NLP
 date: 2022-01-01
 external_link: http://github.com
 ---

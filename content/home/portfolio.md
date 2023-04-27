@@ -30,10 +30,10 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
     - name: NLP
       tag: NLP
+    - name: School
+      tag: SCHOOL
 
 design:
   columns: '1'
