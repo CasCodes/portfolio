@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CasCodes
+title: Caspar Pagel
 
 # Is this the primary user of the site?
 superuser: true
