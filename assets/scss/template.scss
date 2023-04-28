@@ -33,6 +33,16 @@ body {
   background: rgb(31, 39, 51);
 }
 
+// CUSTOM COLOURS
+.card-body {
+  background-color: #28374f;
+}
+.card-text {
+  background-color: #28374f;
+}
+
+// END CUSTOM COLOURS
+
 // no navbar shadow
 .navbar {
   box-shadow: none !important; // 'important' to override dark mode box-shadow too.
