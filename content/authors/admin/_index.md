@@ -50,7 +50,7 @@ social:
     link: https://github.com/CasCodes
   - icon: linkedin-in
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/caspar-pagel-008926238
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
