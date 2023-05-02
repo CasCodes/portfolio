@@ -21,7 +21,7 @@ author: admin
 # {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 ---
 
-Hi, there! I'm **Caspar**, a student interested in machine learning and computer science.
+Hi, there! I'm **Caspar Pagel**, a student interested in machine learning and computer science.
 {style="font-size: 1.2rem;"}
 
-Check out my [resumé](/about/) and projects below:
+Check out my <u>[resumé](/about/)</u> and projects below:

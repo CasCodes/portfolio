@@ -34,20 +34,24 @@ body {
 }
 
 // CUSTOM COLOURS
-.card-body {
-  background-color: #28374f;
-}
-.card-text {
-  background-color: #28374f;
-}
+// .card-body {
+//   background-color: #28374f;
+// }
+// .card-text {
+//   background-color: #28374f;
+// }
 
 // END CUSTOM COLOURS
+
+.btn.btn-primary.btn-lg.active {
+  background-color: #E07234 !important;
+}
 
 // no navbar shadow
 .navbar {
   box-shadow: none !important; // 'important' to override dark mode box-shadow too.
   // CUSTOM BLUR EFFECT
-  background-color: rgba(26, 32, 44, 0.70) !important;
+  background-color: rgba(28, 28, 28, 0.7) !important;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }

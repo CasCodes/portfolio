@@ -1,26 +1,36 @@
 # Essentially Minimal theme but with constant home section bg color.
-name = "Starter Blog"
-
-[light]
-  # Primary
-  primary = "#2962ff"
-
-  # Menu
-  menu_primary = "rgb(247, 250, 252)"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
-
-  # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
-  home_section_even = "rgb(247, 250, 252)"
+name = "custom"
 
 [dark]
-  primary = "#354b6f"
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
-  background =  "#1a202c" #"#1A202C"
-  home_section_odd = "rgb(26, 32, 44)" ##9babcf
-  home_section_even = "rgb(26, 32, 44)"
-  menu_primary = "rgb(26, 32, 44)"
-  card_text = "#1c283b"
+  # Background
+  home_section_odd = "#1E1E1E"
+  home_section_even = "#1E1E1E"
+  
+  # Offset (light grey of filter & cards)
+  primary = "#504E4E"
+  
+  # Menu
+  menu_primary = "#FFFFFF"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#FFFFFF"
+  menu_title = "#FFFFFF"
+  
+  # Cards
+  card_text = "#FFFFFF"
+
+  # Misc
+  link = "#FFFFFF"
+  link_hover = "#E07234"
+
+
+## DARK COPY
+  # primary = "#354b6f"
+  # link = "#bbdefb"
+  # link_hover = "#bbdefb"
+  # background =  "#1E1E1E" #"#1A202C"
+  # home_section_odd = "rgb(26, 32, 44)" ##9babcf
+  # home_section_even = "rgb(26, 32, 44)"
+  # menu_primary = "rgb(26, 32, 44)"
+  # card_text = "#1c283b"
+
+

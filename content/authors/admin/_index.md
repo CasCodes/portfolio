@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CASCODES #CATXTHJL
+title: CASCODES
 
 # Is this the primary user of the site?
 superuser: true
