@@ -30,8 +30,6 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: NLP
-      tag: NLP
     - name: School
       tag: SCHOOL
 
