@@ -1,0 +1,38 @@
+<script>
+    function hack_effect(content) {
+        // apply custom hack effect
+        const abc = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        const name = document.getElementsByTagName('h2')[0].innerText;
+        // change random letters in interval
+        let iters = 0;
+        const interval = setInterval(() =>{
+            content.innerText = content.innerText
+            .split("")
+            .map((letter, index) => {
+                // when to return the original letter at index
+                if(index < iters) {
+                    return name[index]
+                }
+                // else use random one
+                return abc[Math.floor(Math.random() * 26)]
+            })
+            .join("")
+        
+            // iterations equal to the words length
+            if(iters >= name.length) clearInterval(interval);
+            iters += 1/4;
+        }, 100);
+    }
+    // on page load & reload
+    window.addEventListener("load", () => {
+        // get name headline object from html
+        content = document.getElementsByTagName('h2')[0]
+        console.log("loaded custom js from layouts/partials/hooks/body-end/custom.html ")
+
+        hack_effect(content)
+    });
+    // on mouseover
+    // document.getElementsByTagName('h2')[0].onmouseover = event => {
+    //     hack_effect(event.target)
+    // }
+</script>
