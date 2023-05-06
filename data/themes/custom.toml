@@ -3,16 +3,22 @@ name = "custom"
 
 [dark]
   # Background
+  background =  "#1E1E1E"
   home_section_odd = "#1E1E1E"
   home_section_even = "#1E1E1E"
+
+  # Header Background
+  header = "#1E1E1E"
+  # Footer Background
+  footer = "#1E1E1E"
   
   # Offset (light grey of filter & cards)
   primary = "#504E4E"
   
-  # Menu
-  menu_primary = "#FFFFFF"
+  # Menu (mobile)
+  menu_primary = "#1E1E1E"
   menu_text = "#FFFFFF"
-  menu_text_active = "#FFFFFF"
+  menu_text_active = "#e07234"
   menu_title = "#FFFFFF"
   
   # Cards
