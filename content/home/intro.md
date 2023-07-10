@@ -24,4 +24,4 @@ author: admin
 Hi, there! I'm **Caspar Pagel**, a student interested in machine learning and computer science.
 {style="font-size: 1.2rem;"}
 
-Check out my <u>[resumé](/about/)</u> and projects below:
+Check out my projects below:

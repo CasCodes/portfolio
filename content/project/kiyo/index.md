@@ -148,11 +148,9 @@ It reads the text, passes it into the sagemaker endpoint and returns the summari
 The machine learning takes about 5 seconds and the entire process takes up to 10 seconds, which can feel like a long time when waiting for something to load in a browser.
 
 Still I have to admit that hosting an entire machine learning API on the cloud feels pretty cool.
-
-> Now lets get to the fun part!
 ### [👉 **Check it out**](https://github.com/CasCodes/Kiyo/releases/tag/v.1.0.0)
 
-## Final Thoughts 💭
+## Closing Thoughts 💭
 
 In this project I've learned a lot about web development (like async requests and JSON), as well as deploying web applications and machine learning models on AWS.
 
