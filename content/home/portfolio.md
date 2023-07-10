@@ -32,6 +32,8 @@ content:
       tag: ML
     - name: School
       tag: SCHOOL
+    - name: Web Development
+      tag: WEB
 
 design:
   columns: '1'
