@@ -1,6 +1,6 @@
 ---
 title: Classic Ciphers
-summary: Write about your project here...
+summary: Full implementations of the famous RSA, Caesar & Viginere ciphers with a modern GUI. (view on GitHub)
 tags:
   - SCHOOL
 date: 2021-01-01

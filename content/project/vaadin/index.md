@@ -1,6 +1,6 @@
 ---
 title: Java Web-App build with Vaadin
-summary: Write about your project here...
+summary: A ticket purchasing app featuring Java front and back end in order to learn the programming language. (View on GitHub)
 tags:
   - SCHOOL
   - WEB
