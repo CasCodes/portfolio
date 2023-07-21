@@ -8,7 +8,6 @@ date: 2022-10-12
 ---
 > [👉 view on github](https://github.com/unreally-ai)
 
-## 01 Intro
 We hear a lot about "Fake News" - or disinformation - these days. They are defined as "false information which is inteded to mislead" and can be used in various malicious ways, especially on social media. To manipulate public opinion, distrupt the democratic process or undermine scientific facts.
 
 To spot false claims (e.g. Tweets) on social media, [**Vincent Elster**](https://github.com/VinceDerPrince) and I developed a method using stance detection. Here, we use a neural network to determine the way external context relates to such a claim by classifing their stance as 
@@ -17,9 +16,9 @@ To spot false claims (e.g. Tweets) on social media, [**Vincent Elster**](https:/
 - discuss (the context neutrally discusses the claim)
 - unrelated (the context talks about something different)
 
-## 02 Design
-There are multiple parts to this projects:
-1. Firstly we will create a dataset of claims, context and label (stance)
-2. Furthermore we have to find a way to represent these texts numerically in order for the computer to interpret them
-3. Then we can build and train a neural network 
-4. And finally we will integrate everything into an API and Twitter Bot
+If you are interested in learning more, you can download our paper below (it's in German).
+
+## Kurzfassung
+Um falsche Behauptungen mit Hilfe von maschinellen Lernen zu erkennen ist Stance Detection (SD) eine geeignete Technik, bei der der Standpunkt zwischen einer Behauptung und Nachrichten-Kontext erkannt wird. Daher untersuchen wir verschiedene Methoden zur Integration von Kontext in SD und wie diese sich auf die Leistung eines von uns entwickelten Systems zum Erkennen von Fehlinformationen auswirken.
+
+> [👉 Fehlinformationen durch Kontext erkennen](/uploads/Fehlinformationen_durch_Kontext_erkennen.pdf)
